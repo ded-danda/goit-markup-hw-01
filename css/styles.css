@@ -103,7 +103,7 @@ img {
 }
 /* Page header styles*/
 /* Page top-hero styles*/
-.top-hero {
+.nb-hero {
   background-color: #2e2f42;
 }
 .main-title-text {
@@ -128,8 +128,8 @@ img {
   background: #4d5ae5;
 }
 
-.top-button:hover,
-.top-button:focus {
+.nb-button:hover,
+.nb-button:focus {
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #404bbf;
 }
